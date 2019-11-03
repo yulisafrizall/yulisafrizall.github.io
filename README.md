@@ -1,6 +1,5 @@
 ## Welcome to my Portofolio
-
-my name is yulis afrizal, I'm a web developer I'm usualy make static dashboards, I've studied IT for 5 years and I really enjoy it.
+Hi, My name is yulis afrizal, I'm a web developer I'm usualy make static dashboards, I've studied IT for 5 years and I really enjoy it.
 
 ### IT Support & Web Developer
 I'm a developer with over 1 years experience in software application. Currently, I most often design and build web application using Native(PHP), Codeigniter.
