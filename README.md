@@ -12,16 +12,22 @@ Universitas Malikusaleh Lhokseumawe
 `Teknik Informatika` [2014-2018].
 
 #### Proggraming Skill
-#`PHP` [⭐⭐⭐⭐].
-#`User interface (UI) design` [⭐⭐⭐].
-#`CSS` [⭐⭐⭐].
-#`Javascript` [⭐⭐].
-#`Linux Operating System` [⭐⭐⭐⭐].
-#`MySql` [⭐⭐⭐].
+PHP [⭐⭐⭐⭐].
+User interface (UI) design [⭐⭐⭐].
+CSS [⭐⭐⭐].
+Javascript [⭐⭐].
+Linux Operating System [⭐⭐⭐⭐].
+MySql [⭐⭐⭐].
 
-
+```
 ### PROJECT
-Dashboard & Information System
+1. Dashboard & Information System Massmarket Sumbagut Telkomsel Regional Sumatera.
+2. Dashboard & Information System Sales Monitoring Sumbagut Telkomsel Regional Sumatera.
+3. Dashboard & Information System Outlet Monitoring Sumbagut Telkomsel Regional Sumatera.
+4. Website / Homepage Sumbagutzone Telkomsel Regional Sumatera.
+5. Dashboard & Information System Massmarket Sumbagut Telkomsel Regional Sumatera.
+6. Information System Keluhan Peserta Taspen System Taspen Lhokseumawe.
+```
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
