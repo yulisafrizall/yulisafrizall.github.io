@@ -10,6 +10,7 @@ Universitas Malikusaleh Lhokseumawe
 
 ### Proggraming Skill
 - PHP [⭐⭐⭐⭐].
+- Front End Developer [⭐⭐⭐].
 - User interface (UI) design [⭐⭐⭐].
 - CSS [⭐⭐⭐].
 - Javascript [⭐⭐].
