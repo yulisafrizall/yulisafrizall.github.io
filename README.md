@@ -7,6 +7,19 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 #### IT Support & Web Developer
 I'm a developer with over 1 years experience in software application. Currently, I most often design and build web application using Native(PHP), Codeigniter.
 
+#### Last Education
+Universitas Malikusaleh Lhokseumawe 
+`Teknik Informatika` [2014-2018].
+
+#### Proggraming Skill
+`PHP` [⭐⭐⭐⭐].
+`User interface (UI) design` [⭐⭐⭐].
+`CSS` [⭐⭐⭐].
+`Javascript` [⭐⭐].
+`Linux Operating System` [⭐⭐⭐⭐].
+`MySql` [⭐⭐⭐].
+
+
 ### PROJECT
 Dashboard & Information System
 
