@@ -12,15 +12,16 @@ Universitas Malikusaleh Lhokseumawe
 `Teknik Informatika` [2014-2018].
 
 #### Proggraming Skill
-PHP [⭐⭐⭐⭐].
-User interface (UI) design [⭐⭐⭐].
-CSS [⭐⭐⭐].
-Javascript [⭐⭐].
-Linux Operating System [⭐⭐⭐⭐].
-MySql [⭐⭐⭐].
+- PHP [⭐⭐⭐⭐].
+- User interface (UI) design [⭐⭐⭐].
+- CSS [⭐⭐⭐].
+- Javascript [⭐⭐].
+- Linux Operating System [⭐⭐⭐⭐].
+- MySql [⭐⭐⭐].
 
-```
 ### PROJECT
+```
+
 1. Dashboard & Information System Massmarket Sumbagut Telkomsel Regional Sumatera.
 2. Dashboard & Information System Sales Monitoring Sumbagut Telkomsel Regional Sumatera.
 3. Dashboard & Information System Outlet Monitoring Sumbagut Telkomsel Regional Sumatera.
