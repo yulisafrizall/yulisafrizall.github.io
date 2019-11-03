@@ -37,6 +37,4 @@ Universitas Malikusaleh Lhokseumawe
 - **Email** yulisafrizal@outlook.com
 - **Twitter** [@yulisyourself](https://twitter.com/yulisyourself)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 Contact Me [Whatsapp](https://wa.me/6282238289792).
