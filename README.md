@@ -12,12 +12,12 @@ Universitas Malikusaleh Lhokseumawe
 `Teknik Informatika` [2014-2018].
 
 #### Proggraming Skill
-`PHP` [⭐⭐⭐⭐].
-`User interface (UI) design` [⭐⭐⭐].
-`CSS` [⭐⭐⭐].
-`Javascript` [⭐⭐].
-`Linux Operating System` [⭐⭐⭐⭐].
-`MySql` [⭐⭐⭐].
+#`PHP` [⭐⭐⭐⭐].
+#`User interface (UI) design` [⭐⭐⭐].
+#`CSS` [⭐⭐⭐].
+#`Javascript` [⭐⭐].
+#`Linux Operating System` [⭐⭐⭐⭐].
+#`MySql` [⭐⭐⭐].
 
 
 ### PROJECT
