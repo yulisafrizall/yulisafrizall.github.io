@@ -1,10 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to my Portofolio
 
 You can use the [editor on GitHub](https://github.com/yulisafrizall/yulisafrizall.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+#### IT Support & Web Developer
+I'm a developer with over 1 years experience in software application. Currently, I most often design and build web application using Native(PHP), Codeigniter.
+
+### PROJECT
+Dashboard & Information System
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
