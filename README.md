@@ -29,7 +29,10 @@ Universitas Malikusaleh Lhokseumawe
 5. Dashboard & Information System Massmarket Sumbagut Telkomsel Regional Sumatera.
 6. Information System Keluhan Peserta Taspen System Taspen Lhokseumawe.
 ```
-
+### WORK EXPERIENCE
+- TELKOM LHOKSEUMAWE [INTERSHIP]
+- TASPEN LHOKSEUMAWE [INTERSHIP]
+- TELKOMSEL REGIONAL SUMATERA UTARA [INTERSHIP]
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
