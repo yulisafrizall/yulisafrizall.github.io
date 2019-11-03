@@ -4,14 +4,14 @@ You can use the [editor on GitHub](https://github.com/yulisafrizall/yulisafrizal
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-#### IT Support & Web Developer
+### IT Support & Web Developer
 I'm a developer with over 1 years experience in software application. Currently, I most often design and build web application using Native(PHP), Codeigniter.
 
-#### Last Education
+### Last Education
 Universitas Malikusaleh Lhokseumawe 
 `Teknik Informatika` [2014-2018].
 
-#### Proggraming Skill
+### Proggraming Skill
 - PHP [⭐⭐⭐⭐].
 - User interface (UI) design [⭐⭐⭐].
 - CSS [⭐⭐⭐].
