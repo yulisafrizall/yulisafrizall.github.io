@@ -30,6 +30,7 @@ Universitas Malikusaleh Lhokseumawe
 - [Deep Fake](https://faceswap.dev//).
 - [Crawler](https://scrapy.org/).
 - [cyber security](https://threatmap.checkpoint.com/).
+- [Yolo Detection](https://www.kaggle.com/aruchomu/yolo-v3-object-detection-in-tensorflow).
 
 ### WORK EXPERIENCE
 - TELKOM KANDATEL LHOKSEUMAWE [INTERSHIP] 2010
