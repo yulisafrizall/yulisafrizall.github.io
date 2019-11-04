@@ -24,9 +24,13 @@ Universitas Malikusaleh Lhokseumawe
 2. Dashboard & Information System Sales Monitoring Sumbagut Telkomsel Regional Sumatera.
 3. Dashboard & Information System Outlet Monitoring Sumbagut Telkomsel Regional Sumatera.
 4. Website / Homepage Sumbagutzone Telkomsel Regional Sumatera.
-5. Dashboard & Information System Massmarket Sumbagut Telkomsel Regional Sumatera.
-6. Information System Keluhan Peserta Taspen System Taspen Lhokseumawe.
+5. Information System Keluhan Peserta Taspen System Taspen Lhokseumawe.
 ```
+### INTEREST
+- [Deep Fake](https://faceswap.dev//).
+- [Crawler](https://scrapy.org/).
+- [cyber security](https://threatmap.checkpoint.com/).
+
 ### WORK EXPERIENCE
 - TELKOM KANDATEL LHOKSEUMAWE [INTERSHIP] 2010
 - TASPEN(Persero) KANTOR CABANG LHOKSEUMAWE [INTERSHIP] 2017
