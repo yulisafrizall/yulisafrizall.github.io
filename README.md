@@ -39,7 +39,7 @@ Universitas Malikusaleh Lhokseumawe
 
 ### CONTACT
 - **Phone** +6282238289792
-- **Email** yulisafrizal@outlook.com
+- **Email** [yulisafrizal@outlook.com](https://outlook.office.com/mail.read)
 - **Twitter** [@yulisyourself](https://twitter.com/yulisyourself)
 
 Contact Me [Whatsapp](https://wa.me/6282238289792).
